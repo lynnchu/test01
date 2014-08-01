@@ -1,0 +1,7 @@
+login fail:
+    -   user name: oo
+        password: xx
+    -   user name: admin
+        password : 11 
+	-   user name: 11
+        password : admin
